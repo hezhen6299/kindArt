@@ -19,5 +19,6 @@
 
   <modules>
     <module>kindArt-wechat</module>
+    <module>kindArt-background</module>
   </modules>
 </project>
